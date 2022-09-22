@@ -2,6 +2,8 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/arthur-lopes-barbosa-b3aa72206/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthhrr)](https://github.com/anuraghazra/github-readme-stats)
+
 ![arthhrr GitHub stats](https://github-readme-stats.vercel.app/api?username=arthhrr&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
